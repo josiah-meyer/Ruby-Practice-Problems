@@ -1,0 +1,14 @@
+#Use return to print a greeting
+
+def greeter(name)
+    return "My friend is" + name
+end
+
+#return true when evenly divisible by 3 and false when not.
+
+def by_three?(number)
+  return "true" if number % 3 == 0
+  
+   return "false" if number % 3 == Integer 
+
+end
